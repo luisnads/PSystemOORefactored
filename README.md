@@ -4,9 +4,9 @@ Projeto compilado com JDK 12.0.1, escrito no IntelliJ.
 
 ## Padrões de Projeto
 Foram implementados 3 padrões de projetos:
-Extract Method
-Template Method
-Command
+Extract Method,
+Template Method,
+Command.
 
 Extract Method foi implementado em alguns métodos que sempre realizavam a busca de um ID de funcionário, sendo
 que o método não tinha como objetivo principal o mesmo, ex.: rmEmployee(), serviceTax(), cardPoint(), setSellResult().
